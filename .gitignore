@@ -49,3 +49,6 @@ release
 *.scss.d.ts
 
 .heft
+
+
+.idea
